@@ -1,0 +1,36 @@
+
+Distance from 295 to 1 = 952km
+the path is:  <- Arab_al_Fureijat <- Khirbet_alFakheit <- Khirbet_Bir_al_Idd <- Imneizil <- Ar_Ramadin <- Wadi_AlAmayer <- At_Tuwani <- Khallet_AlMasafer <- Kharas <- Al_Maniya <- Ras_Atiya <- Arab_arRamadinashShamali <- Urif <- Attil <- Zeita <- Tammun <- Ras_alFara <- Ath_Thaghra <- Al_Aqaba <- Qabatiya <- Khirbet_AbdallahalYunis <- Arabbuna
+
+
+Distance from 3 to 5 = 420km
+the path is:  <- Al_Jalama <- Kafr_Dan <- Tura_alGharbiya <- Tura_ashSharqiya <- Al_Hashimiya <- At_Tayba
+
+
+Distance from 100 to 200 = 449km
+the path is:  <- An_NazlaalGharbiya <- Iktaba <- Bala <- Khirbet_arRasalAhmar <- At_Tarem <- Jenin_Camp <- Sir <- Khirbet_Humsa <- Beit_Hasan <- Arab_AbuFarda <- Deir_Ballut <- Marah_Maalla <- Al_Manshiya <- Umm_Salamuna <- Iskaka
+
+
+Distance from 200 to 100 = 449km
+the path is:  <- Iskaka <- Umm_Salamuna <- Al_Manshiya <- Marah_Maalla <- Deir_Ballut <- Arab_AbuFarda <- Beit_Hasan <- Khirbet_Humsa <- Sir <- Jenin_Camp <- At_Tarem <- Khirbet_arRasalAhmar <- Bala <- Iktaba <- An_NazlaalGharbiya
+
+
+Distance from 45 to 66 = 787km
+the path is:  <- Al_Judeida <- al_Asaasa <- Ajja <- Al_Kufeir <- Kafr_Rai <- Bir_alBasha <- Al_Mughayyir <- Umm_atTut <- Kufeirit <- Birqin <- Jenin <- Umm_Dar <- Fahma <- Az_Zawiya
+
+
+Distance from 4 to 88 = 605km
+the path is:  <- Anin <- Arrana <- Khirbet_Suruj <- Jenin <- Birqin <- Kufeirit <- Umm_atTut <- Al_Mughayyir <- Bir_alBasha <- Kafr_Rai <- Al_Kufeir <- Ajja <- Al_Malih <- Khirbet_Yarza
+
+
+Distance from 89 to 77 = 804km
+the path is:  <- Tammun <- Wadi_alFara <- Aqqaba <- Wadi_Duoq <- Wad_adDabi <- Al_Araqa <- Al_Yamun <- Arrana <- Khirbet_Suruj <- Jenin <- Birqin <- Kufeirit <- Umm_atTut <- Al_Mughayyir <- Bir_alBasha <- Kafr_Rai <- Al_Kufeir <- Ajja <- al_Asaasa <- Kardala <- Ein_elBeida
+
+
+Distance from 4 to 55 = 201km
+the path is:  <- Anin <- Al_Yamun <- Al_Araqa <- Wad_adDabi <- Wadi_Duoq <- Fahma_alJadida <- Telfit
+
+
+Distance from 34 to 66 = 106km
+the path is:  <- Wad_adDabi <- Wadi_Duoq <- Al_Jarba <- Az_Zababida
+
